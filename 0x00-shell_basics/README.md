@@ -1,2 +1,3 @@
 print current working directory
-list current files
+list current file
+changin from current directory to homes

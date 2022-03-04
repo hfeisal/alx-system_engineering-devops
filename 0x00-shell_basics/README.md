@@ -6,3 +6,5 @@ list more file
 Display current directory contents, including hidden file
 i love numbers
 reate a script that creates a directory named mkdir
+Betty in my first directory
+

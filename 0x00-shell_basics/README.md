@@ -13,3 +13,4 @@ Back to the future
 a script that lists all files
 a script that prints the type of the file named iam
  We are symbols, and inhabit symbols
+a script that copies all the HTML files

@@ -10,3 +10,4 @@ Betty in my first directory
 bye bye betty
 Bye bye My first directory
 Back to the future
+a script that lists all files

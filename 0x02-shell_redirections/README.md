@@ -14,4 +14,5 @@ a script that displays the ten newest files in the current directory
 a script that takes a list of words as input and prints only words that appear exactly once
 lines containing the pattern root 
 display the number of lines that contain the pattern bin in file
-display lines containing the pattern of three lines 
+display lines containing the pattern of three lines
+display all the lines in the file that contain bin and password 

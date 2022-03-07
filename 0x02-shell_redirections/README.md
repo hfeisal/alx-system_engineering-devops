@@ -17,4 +17,5 @@ display the number of lines that contain the pattern bin in file
 display lines containing the pattern of three lines
 display all the lines in the file that contain bin and password
 all lines of the file etc config starting with a letter
-replace all characters a and c input z and e 
+replace all characters a and c input z and e
+a script that removes all letters cap c and small c 

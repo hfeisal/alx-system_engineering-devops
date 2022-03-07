@@ -12,4 +12,5 @@ a script that deletes all the regular files
 a script that counts the number of directories and sub-directories
 a script that displays the ten newest files in the current directory
 a script that takes a list of words as input and prints only words that appear exactly once
-lines containing the pattern root  
+lines containing the pattern root 
+display the number of lines that contain the pattern bin in file 

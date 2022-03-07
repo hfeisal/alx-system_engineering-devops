@@ -3,4 +3,5 @@ a script that displays a confused smiley
 display the content of the file
 display the content of etc password and host
 display the last 10 lines of etc and password
-display the first 10 lines of etc and password   
+display the first 10 lines of etc and password 
+a script that displays the third line of the file  

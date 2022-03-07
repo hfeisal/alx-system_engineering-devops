@@ -15,4 +15,5 @@ a script that takes a list of words as input and prints only words that appear e
 lines containing the pattern root 
 display the number of lines that contain the pattern bin in file
 display lines containing the pattern of three lines
-display all the lines in the file that contain bin and password 
+display all the lines in the file that contain bin and password
+all lines of the file etc config starting with a letter 

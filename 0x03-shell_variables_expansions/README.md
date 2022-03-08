@@ -8,4 +8,5 @@ a script that creates a new local variable
 a script that creates a new global variable
 a script that prints the result of the addition of one twenty eight
 a script that prints the result of power divided by divide 
-a script that displays the result of breath to the power of love 
+a script that displays the result of breath to the power of love
+there are ten types of people in the world those that understand binary and those that do not 

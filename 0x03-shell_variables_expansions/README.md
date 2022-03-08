@@ -6,4 +6,5 @@ a script that lists environment variables
 a script that lists all local variables and environment variables and functions
 a script that creates a new local variable
 a script that creates a new global variable
-a script that prints the result of the addition of one twenty eight  
+a script that prints the result of the addition of one twenty eight
+a script that prints the result of power divided by divide  
